@@ -12,30 +12,30 @@
 
 main{ /* modificação da div*/
    font-weight: bold;/* Peso da fonte*/ 
-   margin:auto;
-   min-width: 350px;
-   max-width: 850px; 
-   background-color: coral;
-   text-align: justify;
+   margin:auto; /* Margen centralização/indentação*/
+   min-width: 350px; /* máxima largura*/
+   max-width: 850px; /*minima largura*/
+   background-color: coral; /* cor da parte traseira*/
+   text-align: justify; /*alinhamento do texto*/
 }
 
 #primal{
- margin:auto;
+ margin:auto;/* Margen centralização/indentação*/
  width: 850px;
 }
 
 h2{
     
-    background-color: firebrick;
-    color: white;
-    text-align: center;
-    margin: 10px;
-    padding: 9px;
+    background-color: firebrick;/* cor da parte traseira*/
+    color: white;/*Cor da fonte*/
+    text-align: center;/*alinhamento do texto*/
+    margin: 10px;/*margen*/
+    padding: 9px;/*Cria um distanciamento*/
 }
 table{
-   text-align: center;
-   margin: auto; 
-   background-color: brown;
-   color: white;
-   font-weight: bold;
+   text-align: center;/*alinhamento do texto*/
+   margin: auto; /*margen*/
+   background-color: brown;/* cor da parte traseira*/
+   color: white;/*Cor da fonte*/
+   font-weight: bold;/*peso da fonte*/
 }

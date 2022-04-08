@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+
+#inicial{ /* O titulo h1 customizado*/
+   text-align: center; /*alinhamento de texto*/
+   background-color: darkred; /* cor da parte traseira*/ 
+   color: #ffffff; /*Cor da fonte*/
+   padding: 15px; /*Cria um distanciamento*/
+}
+
+
+
+main{ /* modificação da div*/
+   font-weight: bold;/* Peso da fonte*/ 
+   margin:auto;
+   min-width: 350px;
+   max-width: 850px; 
+   background-color: coral;
+   text-align: justify;
+}
+
+#primal{
+ margin:auto;
+ width: 850px;
+}
+
+h2{
+    
+    background-color: firebrick;
+    color: white;
+    text-align: center;
+    margin: 10px;
+    padding: 9px;
+}
+table{
+   text-align: center;
+   margin: auto; 
+   background-color: brown;
+   color: white;
+   font-weight: bold;
+}
